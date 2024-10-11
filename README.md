@@ -11,7 +11,7 @@ This repository provides a set of basic CRUD APIs built with Go, using the Gin a
 
 ## API Endpoints
 
-### Product:
+### Products:
 - **POST** `/products` - Create a new product
 - **GET** `/products` - Get all products
 - **GET** `/products/:id` - Get a product by ID
