@@ -6,7 +6,7 @@ This repository provides a set of basic CRUD APIs built with Go, using the Gin a
 
 - **Go**
 - **Gin** 
-- **GORM** 
+- **GORM & PostgreSQL** 
 - **JWT Token & Bcrypt** 
 
 ## API Endpoints
